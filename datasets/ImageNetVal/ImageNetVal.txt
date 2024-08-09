@@ -1,0 +1,1 @@
+Please get ImageNetVal through official download website!
